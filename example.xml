@@ -1,0 +1,128 @@
+<xml version="1.0">
+  <podcast />
+  <rss xmlns:itunes='http://www.itunes.com/dtds/podcast-1.0.dtd' version='2.0' xml:lang='en-US'>>
+    <channel>
+      <title>podcast directory</title>
+      <link>http://10.0.0.1</link>
+      <language>en-us</language>
+      <description>music i share with friends</description>
+      <itunes:author>iwastoolazytochangethis</itunes:author>
+      <itunes:category>music</itunes:category>
+      <itunes:owner>
+        <itunes:name>iwastoolazytochangethis</itunes:name>
+        <itunes:email>you@isp.com</itunes:email>
+      </itunes:owner>
+      <item>
+        <title>OTB064</title>
+        <enclosure length="174005940" type="type/mp3" url="http://10.0.0.1/eelke_kleijn_outside_the_box_064.mp3" />
+        <pubDate>Wed May 25 11:35:22 2011</pubDate>
+        <itunes:duration>02:00:49</itunes:duration>
+        <itunes:keywords> 000004BC 000004A3 0000A40D 00007EAE 004491FB 001D15EB 0000877A 000087EE 003D342A 005D3900</itunes:keywords>
+        <album>Outside the Box</album>
+        <bpm />
+        <itunes:author>Eelke Kleijn</itunes:author>
+        <guid>1b70f76b0242384ba783c670aab017c6</guid>
+      </item>
+      <item>
+        <title>OTB065</title>
+        <enclosure length="295637706" type="type/mp3" url="http://10.0.0.1/eelke_kleijn_outside_the_box_065.mp3" />
+        <pubDate>Wed Jun 29 12:38:07 2011</pubDate>
+        <itunes:duration>03:25:16</itunes:duration>
+        <itunes:keywords> 0000024B 00000247 000070A9 00004BFE 00A4AAB2 0062F1E6 00008381 0000878E 00B62EC7 00B64864</itunes:keywords>
+        <album>Outside the Box</album>
+        <bpm />
+        <itunes:author>Eelke Kleijn</itunes:author>
+        <guid>bac868cf3601e79ebe0014c131380f90</guid>
+      </item>
+      <item>
+        <title>OTB066</title>
+        <enclosure length="169452434" type="type/mp3" url="http://10.0.0.1/eelke_kleijn_outside_the_box_066.mp3" />
+        <pubDate>Wed Jul 27 11:45:25 2011</pubDate>
+        <itunes:duration>01:57:50</itunes:duration>
+        <itunes:keywords />
+        <album>Outside the Box</album>
+        <bpm />
+        <itunes:author>Eelke Kleijn</itunes:author>
+        <guid>c1a8cf8ea36421872b7ab99ed968633b</guid>
+      </item>
+      <item>
+        <title />
+        <enclosure length="171379355" type="type/mp3" url="http://10.0.0.1/eelke_kleijn_outside_the_box_067.mp3" />
+        <pubDate>Sun Aug 21 15:20:47 2011</pubDate>
+        <itunes:duration>01:59:11</itunes:duration>
+        <itunes:keywords />
+        <album />
+        <bpm />
+        <itunes:author />
+        <guid>e9e12683b9a0a1ea281ef71de942e391</guid>
+      </item>
+      <item>
+        <title>OTB068</title>
+        <enclosure length="166818714" type="type/mp3" url="http://10.0.0.1/eelke_kleijn_outside_the_box_068.mp3" />
+        <pubDate>Mon Oct 24 17:36:33 2011</pubDate>
+        <itunes:duration>01:55:49</itunes:duration>
+        <itunes:keywords> 00000453 00000494 00006361 00006842 002DAFEB 0061636E 00008528 00008576 00638059 001A942F</itunes:keywords>
+        <album>Outside the Box Podcast</album>
+        <bpm />
+        <itunes:author>Eelke Kleijn</itunes:author>
+        <guid>fb967ca88fe117a3a417b83c280a4956</guid>
+      </item>
+      <item>
+        <title />
+        <enclosure length="166168240" type="type/mp3" url="http://10.0.0.1/eelke_kleijn_outside_the_box_069.mp3" />
+        <pubDate>Mon Oct 24 17:36:03 2011</pubDate>
+        <itunes:duration>01:55:34</itunes:duration>
+        <itunes:keywords />
+        <album />
+        <bpm />
+        <itunes:author />
+        <guid>3e05adaa1b8c95d3b3358216c9fca55b</guid>
+      </item>
+      <item>
+        <title>OTB070</title>
+        <enclosure length="172853626" type="type/mp3" url="http://10.0.0.1/eelke/eelke_kleijn_outside_the_box_070.mp3" />
+        <pubDate>Mon Nov 21 17:02:45 2011</pubDate>
+        <itunes:duration>02:00:01</itunes:duration>
+        <itunes:keywords> 000004DC 000004D6 00009EA6 0000A54C 006A8FB2 006A8FB2 00007C33 00007E0D 003487A7 002E501F</itunes:keywords>
+        <album>Outside the Box Podcast</album>
+        <bpm />
+        <itunes:author>Eelke Kleijn</itunes:author>
+        <guid>2420e85e53c60db14e788b146cd3e0bd</guid>
+      </item>
+      <item>
+        <title />
+        <enclosure length="167531832" type="type/mp3" url="http://10.0.0.1/eelke/eelke_kleijn_outside_the_box_071.mp3" />
+        <pubDate>Tue Dec 27 13:33:25 2011</pubDate>
+        <itunes:duration>01:56:30</itunes:duration>
+        <itunes:keywords />
+        <album />
+        <bpm />
+        <itunes:author />
+        <guid>ab7318454087d7b8f76b212243dcc26c</guid>
+      </item>
+      <item>
+        <title>OTB072 Final</title>
+        <enclosure length="162958557" type="type/mp3" url="http://10.0.0.1/eelke/eelke_kleijn_outside_the_box_072.mp3" />
+        <pubDate>Mon Jan 23 21:31:13 2012</pubDate>
+        <itunes:duration>01:53:09</itunes:duration>
+        <itunes:keywords>0</itunes:keywords>
+        <album />
+        <bpm />
+        <itunes:author />
+        <guid>761e12080e71966d202fad5b6972da42</guid>
+      </item>
+      <item>
+        <title>OTB073</title>
+        <enclosure length="207893862" type="type/mp3" url="http://10.0.0.1/eelke/eelke_kleijn_outside_the_box_073.mp3" />
+        <pubDate>Wed Feb 29 18:10:41 2012</pubDate>
+        <itunes:duration>02:24:21</itunes:duration>
+        <itunes:keywords> 000006F2 000007A1 00009D05 00008C58 0075FEBC 007600E1 0000815D 0000838F 00711A2F 007D3A44</itunes:keywords>
+        <album>Outside the Box Podcast</album>
+        <bpm />
+        <itunes:author>Eelke Kleijn</itunes:author>
+        <guid>5c376e82c64497ffdc2f830fdcd2a9f5</guid>
+      </item>
+    </channel>
+  </rss>
+</xml>
+
