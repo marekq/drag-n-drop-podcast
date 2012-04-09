@@ -13,114 +13,974 @@
         <itunes:email>you@isp.com</itunes:email>
       </itunes:owner>
       <item>
-        <title>OTB064</title>
-        <enclosure length="174005940" type="type/mp3" url="http://10.0.0.1/eelke_kleijn_outside_the_box_064.mp3" />
-        <pubDate>Wed May 25 11:35:22 2011</pubDate>
-        <itunes:duration>02:00:49</itunes:duration>
-        <itunes:keywords> 000004BC 000004A3 0000A40D 00007EAE 004491FB 001D15EB 0000877A 000087EE 003D342A 005D3900</itunes:keywords>
-        <album>Outside the Box</album>
-        <bpm />
-        <itunes:author>Eelke Kleijn</itunes:author>
-        <guid>1b70f76b0242384ba783c670aab017c6</guid>
+        <title>Sex Machine</title>
+        <enclosure length="13358523" type="type/mp3" url="http://10.0.0.1/0044 - James Brown - Sex Machine.mp3" />
+        <pubDate>Fri Oct 21 17:31:53 2011</pubDate>
+        <itunes:duration>05:18</itunes:duration>
+        <itunes:keywords></itunes:keywords>
+        <album>De Zwarte Lijst 2011</album>
+        <itunes:author>James Brown</itunes:author>
+        <guid>7075c5a2584b3599a38fb3f9e7649bbd</guid>
       </item>
       <item>
-        <title>OTB065</title>
-        <enclosure length="295637706" type="type/mp3" url="http://10.0.0.1/eelke_kleijn_outside_the_box_065.mp3" />
-        <pubDate>Wed Jun 29 12:38:07 2011</pubDate>
-        <itunes:duration>03:25:16</itunes:duration>
-        <itunes:keywords> 0000024B 00000247 000070A9 00004BFE 00A4AAB2 0062F1E6 00008381 0000878E 00B62EC7 00B64864</itunes:keywords>
-        <album>Outside the Box</album>
-        <bpm />
-        <itunes:author>Eelke Kleijn</itunes:author>
-        <guid>bac868cf3601e79ebe0014c131380f90</guid>
+        <title>Tyrone</title>
+        <enclosure length="10091506" type="type/mp3" url="http://10.0.0.1/0023 - Eykah Badu - Tyrone.mp3" />
+        <pubDate>Fri Oct 21 17:10:19 2011</pubDate>
+        <itunes:duration>03:56</itunes:duration>
+        <itunes:keywords></itunes:keywords>
+        <album>De Zwarte Lijst 2011</album>
+        <itunes:author>Eykah Badu</itunes:author>
+        <guid>fb12521fd6d5fe730898b2a464ec7a3a</guid>
       </item>
       <item>
-        <title>OTB066</title>
-        <enclosure length="169452434" type="type/mp3" url="http://10.0.0.1/eelke_kleijn_outside_the_box_066.mp3" />
-        <pubDate>Wed Jul 27 11:45:25 2011</pubDate>
-        <itunes:duration>01:57:50</itunes:duration>
-        <itunes:keywords />
-        <album>Outside the Box</album>
-        <bpm />
-        <itunes:author>Eelke Kleijn</itunes:author>
-        <guid>c1a8cf8ea36421872b7ab99ed968633b</guid>
+        <title>So What</title>
+        <enclosure length="11930056" type="type/mp3" url="http://10.0.0.1/0004 - Miles Davis - So What.mp3" />
+        <pubDate>Fri Oct 21 17:30:40 2011</pubDate>
+        <itunes:duration>09:25</itunes:duration>
+        <itunes:keywords></itunes:keywords>
+        <album>De Zwarte Lijst 2011</album>
+        <itunes:author>Miles Davis</itunes:author>
+        <guid>24e01ee4de1e7c82f358916c063d8e2d</guid>
       </item>
       <item>
-        <title />
-        <enclosure length="171379355" type="type/mp3" url="http://10.0.0.1/eelke_kleijn_outside_the_box_067.mp3" />
-        <pubDate>Sun Aug 21 15:20:47 2011</pubDate>
-        <itunes:duration>01:59:11</itunes:duration>
-        <itunes:keywords />
-        <album />
-        <bpm />
-        <itunes:author />
-        <guid>e9e12683b9a0a1ea281ef71de942e391</guid>
+        <title>Rehab</title>
+        <enclosure length="5404859" type="type/mp3" url="http://10.0.0.1/0040 - Amy Winehouse - Rehab.mp3" />
+        <pubDate>Fri Oct 21 17:23:29 2011</pubDate>
+        <itunes:duration>03:34</itunes:duration>
+        <itunes:keywords></itunes:keywords>
+        <album>De Zwarte Lijst 2011</album>
+        <itunes:author>Amy Winehouse</itunes:author>
+        <guid>2a65680cf08dec75fce2f84ca449a07d</guid>
       </item>
       <item>
-        <title>OTB068</title>
-        <enclosure length="166818714" type="type/mp3" url="http://10.0.0.1/eelke_kleijn_outside_the_box_068.mp3" />
-        <pubDate>Mon Oct 24 17:36:33 2011</pubDate>
-        <itunes:duration>01:55:49</itunes:duration>
-        <itunes:keywords> 00000453 00000494 00006361 00006842 002DAFEB 0061636E 00008528 00008576 00638059 001A942F</itunes:keywords>
-        <album>Outside the Box Podcast</album>
-        <bpm />
-        <itunes:author>Eelke Kleijn</itunes:author>
-        <guid>fb967ca88fe117a3a417b83c280a4956</guid>
+        <title>Sometimes It Snows In April</title>
+        <enclosure length="16992260" type="type/mp3" url="http://10.0.0.1/0061 - Prince &amp; The Revolutions - Sometimes It Snows In April.mp3" />
+        <pubDate>Fri Oct 21 17:30:55 2011</pubDate>
+        <itunes:duration>06:49</itunes:duration>
+        <itunes:keywords></itunes:keywords>
+        <album>De Zwarte Lijst 2011</album>
+        <itunes:author>Prince &amp; The Revolutions</itunes:author>
+        <guid>8eefd17d2e4dd96e4d64d887d5891bf3</guid>
       </item>
       <item>
-        <title />
-        <enclosure length="166168240" type="type/mp3" url="http://10.0.0.1/eelke_kleijn_outside_the_box_069.mp3" />
-        <pubDate>Mon Oct 24 17:36:03 2011</pubDate>
-        <itunes:duration>01:55:34</itunes:duration>
-        <itunes:keywords />
-        <album />
-        <bpm />
-        <itunes:author />
-        <guid>3e05adaa1b8c95d3b3358216c9fca55b</guid>
+        <title>Sir Duke</title>
+        <enclosure length="7057973" type="type/mp3" url="http://10.0.0.1/0094 - Stevie Wonder - Sir Duke.mp3" />
+        <pubDate>Fri Oct 21 17:21:26 2011</pubDate>
+        <itunes:duration>03:54</itunes:duration>
+        <itunes:keywords> 00000569 00000538 00002077 0000170C 00035B6D 00035B6D 00006780 00005D0A 0002E33E 0002E33E</itunes:keywords>
+        <album>De Zwarte Lijst 2011</album>
+        <itunes:author>Stevie Wonder</itunes:author>
+        <guid>6e725b1db3a4fdb00b82651525c25528</guid>
       </item>
       <item>
-        <title>OTB070</title>
-        <enclosure length="172853626" type="type/mp3" url="http://10.0.0.1/eelke/eelke_kleijn_outside_the_box_070.mp3" />
-        <pubDate>Mon Nov 21 17:02:45 2011</pubDate>
-        <itunes:duration>02:00:01</itunes:duration>
-        <itunes:keywords> 000004DC 000004D6 00009EA6 0000A54C 006A8FB2 006A8FB2 00007C33 00007E0D 003487A7 002E501F</itunes:keywords>
-        <album>Outside the Box Podcast</album>
-        <bpm />
-        <itunes:author>Eelke Kleijn</itunes:author>
-        <guid>2420e85e53c60db14e788b146cd3e0bd</guid>
+        <title>Moanin'</title>
+        <enclosure length="6421200" type="type/mp3" url="http://10.0.0.1/0093 - Art Blakey - Moanin&apos;.mp3" />
+        <pubDate>Fri Oct 21 17:19:49 2011</pubDate>
+        <itunes:duration>04:01</itunes:duration>
+        <itunes:keywords></itunes:keywords>
+        <album>De Zwarte Lijst 2011</album>
+        <itunes:author>Art Blakey</itunes:author>
+        <guid>412174fdf237bd487d4576a4b4ad517d</guid>
       </item>
       <item>
-        <title />
-        <enclosure length="167531832" type="type/mp3" url="http://10.0.0.1/eelke/eelke_kleijn_outside_the_box_071.mp3" />
-        <pubDate>Tue Dec 27 13:33:25 2011</pubDate>
-        <itunes:duration>01:56:30</itunes:duration>
-        <itunes:keywords />
-        <album />
-        <bpm />
-        <itunes:author />
-        <guid>ab7318454087d7b8f76b212243dcc26c</guid>
+        <title>The Seed (2.0) (feat. Cody ChesnuTT)</title>
+        <enclosure length="6492872" type="type/mp3" url="http://10.0.0.1/0071 - The Roots - The Seed (2.0) (feat. Cody ChesnuTT).mp3" />
+        <pubDate>Fri Oct 21 16:52:31 2011</pubDate>
+        <itunes:duration>04:28</itunes:duration>
+        <itunes:keywords></itunes:keywords>
+        <album>De Zwarte Lijst 2011</album>
+        <itunes:author>The Roots</itunes:author>
+        <guid>7b4ebec1519e86044f0549980e2c26aa</guid>
       </item>
       <item>
-        <title>OTB072 Final</title>
-        <enclosure length="162958557" type="type/mp3" url="http://10.0.0.1/eelke/eelke_kleijn_outside_the_box_072.mp3" />
-        <pubDate>Mon Jan 23 21:31:13 2012</pubDate>
-        <itunes:duration>01:53:09</itunes:duration>
+        <title>Song For My Father</title>
+        <enclosure length="8107693" type="type/mp3" url="http://10.0.0.1/0100 - Horace Silver - Song For My Father.mp3" />
+        <pubDate>Fri Oct 21 17:08:32 2011</pubDate>
+        <itunes:duration>05:12</itunes:duration>
+        <itunes:keywords></itunes:keywords>
+        <album>De Zwarte Lijst 2011</album>
+        <itunes:author>Horace Silver</itunes:author>
+        <guid>559b921d06aae12c8f894466d8c25361</guid>
+      </item>
+      <item>
+        <title>Come Fly With Me</title>
+        <enclosure length="5285891" type="type/mp3" url="http://10.0.0.1/0056 - Frank Sinatra - Come Fly With Me.mp3" />
+        <pubDate>Fri Oct 21 17:16:29 2011</pubDate>
+        <itunes:duration>03:10</itunes:duration>
+        <itunes:keywords></itunes:keywords>
+        <album>De Zwarte Lijst 2011</album>
+        <itunes:author>Frank Sinatra</itunes:author>
+        <guid>02e0c7e0cdc814d4839f2bde59e2397c</guid>
+      </item>
+      <item>
+        <title>Superstition</title>
+        <enclosure length="11314768" type="type/mp3" url="http://10.0.0.1/0011 - Stevie Wonder - Superstition.mp3" />
+        <pubDate>Fri Oct 21 17:22:58 2011</pubDate>
+        <itunes:duration>04:27</itunes:duration>
+        <itunes:keywords></itunes:keywords>
+        <album>De Zwarte Lijst 2011</album>
+        <itunes:author>Stevie Wonder</itunes:author>
+        <guid>4c2677f846c9ecd012742f076421ac05</guid>
+      </item>
+      <item>
+        <title>If I Was Your Girlfriend</title>
+        <enclosure length="12701868" type="type/mp3" url="http://10.0.0.1/0084 - Prince - If I Was Your Girlfriend.mp3" />
+        <pubDate>Fri Oct 21 17:29:06 2011</pubDate>
+        <itunes:duration>05:02</itunes:duration>
+        <itunes:keywords></itunes:keywords>
+        <album>De Zwarte Lijst 2011</album>
+        <itunes:author>Prince</itunes:author>
+        <guid>40f8d4cbbefe1ef96edebde82cc252dd</guid>
+      </item>
+      <item>
+        <title>Son Of A Preacher Man</title>
+        <enclosure length="3774385" type="type/mp3" url="http://10.0.0.1/0078 - Dusty Springfield - Son Of A Preacher Man.mp3" />
+        <pubDate>Fri Oct 21 16:48:40 2011</pubDate>
+        <itunes:duration>02:24</itunes:duration>
+        <itunes:keywords></itunes:keywords>
+        <album>De Zwarte Lijst 2011</album>
+        <itunes:author>Dusty Springfield</itunes:author>
+        <guid>f1fee58ac625dc1963392f073fbcddbc</guid>
+      </item>
+      <item>
+        <title>Sweet Soul Music</title>
+        <enclosure length="4037602" type="type/mp3" url="http://10.0.0.1/0062 - Arthur Conley - Sweet Soul Music.mp3" />
+        <pubDate>Fri Oct 21 16:04:49 2011</pubDate>
+        <itunes:duration>02:22</itunes:duration>
+        <itunes:keywords></itunes:keywords>
+        <album>De Zwarte Lijst 2011</album>
+        <itunes:author>Arthur Conley</itunes:author>
+        <guid>6caacb83b4c23711992d4a3993ac1203</guid>
+      </item>
+      <item>
+        <title>Billie Jean</title>
+        <enclosure length="11877944" type="type/mp3" url="http://10.0.0.1/0021 - Michael Jackson - Billie Jean.mp3" />
+        <pubDate>Fri Oct 21 17:24:10 2011</pubDate>
+        <itunes:duration>04:53</itunes:duration>
         <itunes:keywords>0</itunes:keywords>
-        <album />
-        <bpm />
-        <itunes:author />
-        <guid>761e12080e71966d202fad5b6972da42</guid>
+        <album>De Zwarte Lijst 2011</album>
+        <itunes:author>Michael Jackson</itunes:author>
+        <guid>02e5e4b965ccb4c0721209fc7c9197ae</guid>
       </item>
       <item>
-        <title>OTB073</title>
-        <enclosure length="207893862" type="type/mp3" url="http://10.0.0.1/eelke/eelke_kleijn_outside_the_box_073.mp3" />
-        <pubDate>Wed Feb 29 18:10:41 2012</pubDate>
-        <itunes:duration>02:24:21</itunes:duration>
-        <itunes:keywords> 000006F2 000007A1 00009D05 00008C58 0075FEBC 007600E1 0000815D 0000838F 00711A2F 007D3A44</itunes:keywords>
-        <album>Outside the Box Podcast</album>
-        <bpm />
-        <itunes:author>Eelke Kleijn</itunes:author>
-        <guid>5c376e82c64497ffdc2f830fdcd2a9f5</guid>
+        <title>Georgia On My Mind</title>
+        <enclosure length="5574451" type="type/mp3" url="http://10.0.0.1/0035 - Ray Charles - Georgia On My Mind.mp3" />
+        <pubDate>Fri Oct 21 17:27:32 2011</pubDate>
+        <itunes:duration>03:40</itunes:duration>
+        <itunes:keywords></itunes:keywords>
+        <album>De Zwarte Lijst 2011</album>
+        <itunes:author>Ray Charles</itunes:author>
+        <guid>14a1169d81145e9f26c5f3de654079db</guid>
+      </item>
+      <item>
+        <title>Superfly</title>
+        <enclosure length="10033003" type="type/mp3" url="http://10.0.0.1/0058 Curtis Mayfield - Superfly.mp3" />
+        <pubDate>Fri Oct 21 17:16:38 2011</pubDate>
+        <itunes:duration>03:55</itunes:duration>
+        <itunes:keywords></itunes:keywords>
+        <album>De Zwarte Lijst 2011</album>
+        <itunes:author>Curtis Mayfield</itunes:author>
+        <guid>e43b4deef1ce092ab21c20c51030835c</guid>
+      </item>
+      <item>
+        <title>A Change Is Gonna Come</title>
+        <enclosure length="5379284" type="type/mp3" url="http://10.0.0.1/0008 - Sam Cooke - A Change Is Gonna Come.mp3" />
+        <pubDate>Fri Oct 21 17:01:59 2011</pubDate>
+        <itunes:duration>03:13</itunes:duration>
+        <itunes:keywords></itunes:keywords>
+        <album>De Zwarte Lijst 2011</album>
+        <itunes:author>Sam Cooke</itunes:author>
+        <guid>db748c6ceb5ded188eb1013612a5dc5c</guid>
+      </item>
+      <item>
+        <title>Ain't Nobody</title>
+        <enclosure length="11896395" type="type/mp3" url="http://10.0.0.1/0033 - Rufus &amp; Chaka Khan - Ain&apos;t Nobody.mp3" />
+        <pubDate>Fri Oct 21 17:28:35 2011</pubDate>
+        <itunes:duration>04:41</itunes:duration>
+        <itunes:keywords></itunes:keywords>
+        <album>De Zwarte Lijst 2011</album>
+        <itunes:author>Rufus &amp; Chaka Khan</itunes:author>
+        <guid>0664596fb2c846cb4b36064b1675a6fb</guid>
+      </item>
+      <item>
+        <title>I'm every woman</title>
+        <enclosure length="8115217" type="type/mp3" url="http://10.0.0.1/0060 - Chaka Khan - I&apos;m every woman.mp3" />
+        <pubDate>Fri Oct 21 17:22:36 2011</pubDate>
+        <itunes:duration>04:08</itunes:duration>
+        <itunes:keywords></itunes:keywords>
+        <album>De Zwarte Lijst 2011</album>
+        <itunes:author>Chaka Khan</itunes:author>
+        <guid>a9bc03226626b2cfcd37a0108dacd598</guid>
+      </item>
+      <item>
+        <title>The Thrill Is Gone</title>
+        <enclosure length="8045108" type="type/mp3" url="http://10.0.0.1/0024 - BB King - The Thrill Is Gone.mp3" />
+        <pubDate>Fri Oct 21 16:46:57 2011</pubDate>
+        <itunes:duration>05:27</itunes:duration>
+        <itunes:keywords></itunes:keywords>
+        <album>De Zwarte Lijst 2011</album>
+        <itunes:author>BB King</itunes:author>
+        <guid>39e369e3689ea4e39988631f29279e1d</guid>
+      </item>
+      <item>
+        <title>Sweet Love</title>
+        <enclosure length="4900809" type="type/mp3" url="http://10.0.0.1/0068 - Anita Baker - Sweet Love.mp3" />
+        <pubDate>Thu Oct 20 22:42:49 2011</pubDate>
+        <itunes:duration>04:27</itunes:duration>
+        <itunes:keywords></itunes:keywords>
+        <album>De Zwarte Lijst 2011</album>
+        <itunes:author>Anita Baker</itunes:author>
+        <guid>adf37f5a29ad90a2265f3924ce4edfc1</guid>
+      </item>
+      <item>
+        <title>I Say a Little Prayer</title>
+        <enclosure length="5771729" type="type/mp3" url="http://10.0.0.1/0038 - Aretha Franklin - I Say a Little Prayer.mp3" />
+        <pubDate>Fri Oct 21 16:53:52 2011</pubDate>
+        <itunes:duration>03:34</itunes:duration>
+        <itunes:keywords></itunes:keywords>
+        <album>De Zwarte Lijst 2011</album>
+        <itunes:author>Aretha Franklin</itunes:author>
+        <guid>88615536ce16125923e4e465e0a9ce4b</guid>
+      </item>
+      <item>
+        <title>Redemption Song</title>
+        <enclosure length="6126556" type="type/mp3" url="http://10.0.0.1/0063 - Bob Marley And The Wailers - Redemption Song.mp3" />
+        <pubDate>Fri Oct 21 16:50:18 2011</pubDate>
+        <itunes:duration>03:48</itunes:duration>
+        <itunes:keywords></itunes:keywords>
+        <album>De Zwarte Lijst 2011</album>
+        <itunes:author>Bob Marley And The Wailers</itunes:author>
+        <guid>c3004fd022f898d782005a73f2207132</guid>
+      </item>
+      <item>
+        <title>It's A Man's Man's World</title>
+        <enclosure length="7426709" type="type/mp3" url="http://10.0.0.1/0020 - James Brown - It&apos;s A Man&apos;s Man&apos;s World.mp3" />
+        <pubDate>Fri Oct 21 17:20:24 2011</pubDate>
+        <itunes:duration>02:49</itunes:duration>
+        <itunes:keywords></itunes:keywords>
+        <album>De Zwarte Lijst 2011</album>
+        <itunes:author>James Brown</itunes:author>
+        <guid>3bae9e40e7a7ac6bd235628fc7b1d8f4</guid>
+      </item>
+      <item>
+        <title>Sorry</title>
+        <enclosure length="6640215" type="type/mp3" url="http://10.0.0.1/0010 - Kyteman - Sorry.mp3" />
+        <pubDate>Fri Oct 21 16:28:55 2011</pubDate>
+        <itunes:duration>02:30</itunes:duration>
+        <itunes:keywords></itunes:keywords>
+        <album>De Zwarte Lijst 2011</album>
+        <itunes:author>Kyteman</itunes:author>
+        <guid>b365a3dae48b85299242d1c645ed55e5</guid>
+      </item>
+      <item>
+        <title>Brown Sugar</title>
+        <enclosure length="11135410" type="type/mp3" url="http://10.0.0.1/0037 - D&apos;Angelo - Brown Sugar.mp3" />
+        <pubDate>Fri Oct 21 17:09:37 2011</pubDate>
+        <itunes:duration>04:22</itunes:duration>
+        <itunes:keywords></itunes:keywords>
+        <album>De Zwarte Lijst 2011</album>
+        <itunes:author>D'Angelo</itunes:author>
+        <guid>6052c307cdd052b66a1bc8f1fd2c7316</guid>
+      </item>
+      <item>
+        <title>Mannish Boy</title>
+        <enclosure length="7605795" type="type/mp3" url="http://10.0.0.1/0036 - Muddy Waters - Mannish Boy.mp3" />
+        <pubDate>Fri Oct 21 17:31:38 2011</pubDate>
+        <itunes:duration>02:54</itunes:duration>
+        <itunes:keywords></itunes:keywords>
+        <album>De Zwarte Lijst 2011</album>
+        <itunes:author>Muddy Waters</itunes:author>
+        <guid>3ba5f08b98e2ca62c99b7d73cbd726dc</guid>
+      </item>
+      <item>
+        <title>Tired of Being Alone</title>
+        <enclosure length="4803093" type="type/mp3" url="http://10.0.0.1/0092 - Al Green - Tired of Being Alone.mp3" />
+        <pubDate>Fri Oct 21 16:42:38 2011</pubDate>
+        <itunes:duration>02:54</itunes:duration>
+        <itunes:keywords></itunes:keywords>
+        <album>De Zwarte Lijst 2011</album>
+        <itunes:author>Al Green</itunes:author>
+        <guid>667f3343b3f5c227e724e00483c7662d</guid>
+      </item>
+      <item>
+        <title>Respect</title>
+        <enclosure length="4228804" type="type/mp3" url="http://10.0.0.1/0029 - Aretha Franklin - Respect.mp3" />
+        <pubDate>Fri Oct 21 16:43:15 2011</pubDate>
+        <itunes:duration>02:30</itunes:duration>
+        <itunes:keywords></itunes:keywords>
+        <album>De Zwarte Lijst 2011</album>
+        <itunes:author>Aretha Franklin</itunes:author>
+        <guid>e61b0357847ee1fb7040cc7d9086ba0f</guid>
+      </item>
+      <item>
+        <title>Cantaloupe Island</title>
+        <enclosure length="13946179" type="type/mp3" url="http://10.0.0.1/0052 - Herbie Hancock - Cantaloupe Island.mp3" />
+        <pubDate>Fri Oct 21 17:22:21 2011</pubDate>
+        <itunes:duration>05:33</itunes:duration>
+        <itunes:keywords></itunes:keywords>
+        <album>De Zwarte Lijst 2011</album>
+        <itunes:author>Herbie Hancock</itunes:author>
+        <guid>ad82c203b2a141b57b01a960c8dbb62c</guid>
+      </item>
+      <item>
+        <title>I Got A Woman</title>
+        <enclosure length="4657862" type="type/mp3" url="http://10.0.0.1/0082 - Ray Charles - I Got A Woman.mp3" />
+        <pubDate>Fri Oct 21 16:57:47 2011</pubDate>
+        <itunes:duration>02:54</itunes:duration>
+        <itunes:keywords></itunes:keywords>
+        <album>De Zwarte Lijst 2011</album>
+        <itunes:author>Ray Charles</itunes:author>
+        <guid>506c9a0a4f3b9cdf4dfaa233b9847838</guid>
+      </item>
+      <item>
+        <title>Theme From Shaft</title>
+        <enclosure length="5797131" type="type/mp3" url="http://10.0.0.1/0067 - Isaac Hayes - Theme From Shaft.mp3" />
+        <pubDate>Fri Oct 21 16:20:47 2011</pubDate>
+        <itunes:duration>03:17</itunes:duration>
+        <itunes:keywords></itunes:keywords>
+        <album>De Zwarte Lijst 2011</album>
+        <itunes:author>Isaac Hayes</itunes:author>
+        <guid>613aed55164f5a70408e58f49dc144a3</guid>
+      </item>
+      <item>
+        <title>(You Make Me Feel Like) A Natural Woman</title>
+        <enclosure length="3266672" type="type/mp3" url="http://10.0.0.1/0003 - Aretha Franklin - (You Make Me Feel Like) A Natural Woman.mp3" />
+        <pubDate>Thu Oct 20 22:35:01 2011</pubDate>
+        <itunes:duration>02:44</itunes:duration>
+        <itunes:keywords></itunes:keywords>
+        <album>De Zwarte Lijst 2011</album>
+        <itunes:author>Aretha Franklin</itunes:author>
+        <guid>1cdc1a6f071448dca41eec357908c7ff</guid>
+      </item>
+      <item>
+        <title>Stand By Me</title>
+        <enclosure length="4978617" type="type/mp3" url="http://10.0.0.1/0049 - Ben E King - Stand By Me.mp3" />
+        <pubDate>Fri Oct 21 16:10:34 2011</pubDate>
+        <itunes:duration>03:00</itunes:duration>
+        <itunes:keywords></itunes:keywords>
+        <album>De Zwarte Lijst 2011</album>
+        <itunes:author>Ben E King</itunes:author>
+        <guid>e8948dfec1f6bca3e26ae4aed9872064</guid>
+      </item>
+      <item>
+        <title>Wish I Didn't Miss You</title>
+        <enclosure length="6848091" type="type/mp3" url="http://10.0.0.1/0053 - Angie Stone - Wish I Didn&apos;t Miss You.mp3" />
+        <pubDate>Fri Oct 21 17:32:20 2011</pubDate>
+        <itunes:duration>04:32</itunes:duration>
+        <itunes:keywords></itunes:keywords>
+        <album>De Zwarte Lijst 2011</album>
+        <itunes:author>Angie Stone</itunes:author>
+        <guid>2f7e6e4ed2af09ed719ce5eb541c526e</guid>
+      </item>
+      <item>
+        <title>Rolling In The Deep</title>
+        <enclosure length="9515008" type="type/mp3" url="http://10.0.0.1/0007 - Adele - Rolling In The Deep.mp3" />
+        <pubDate>Fri Oct 21 17:32:01 2011</pubDate>
+        <itunes:duration>03:49</itunes:duration>
+        <itunes:keywords></itunes:keywords>
+        <album>De Zwarte Lijst 2011</album>
+        <itunes:author>Adele</itunes:author>
+        <guid>b3c94fa1027117bea0deddbe02e9ee0e</guid>
+      </item>
+      <item>
+        <title>Sign O' The Times</title>
+        <enclosure length="12504353" type="type/mp3" url="http://10.0.0.1/0048 - Prince - Sign O&apos; The Times.mp3" />
+        <pubDate>Fri Oct 21 17:21:08 2011</pubDate>
+        <itunes:duration>04:57</itunes:duration>
+        <itunes:keywords></itunes:keywords>
+        <album>De Zwarte Lijst 2011</album>
+        <itunes:author>Prince</itunes:author>
+        <guid>8809a4a795f70d04391b8026d3042690</guid>
+      </item>
+      <item>
+        <title>My Favorite Things</title>
+        <enclosure length="33337805" type="type/mp3" url="http://10.0.0.1/0081 - John Coltrane - My Favorite Things.mp3" />
+        <pubDate>Fri Oct 21 17:26:46 2011</pubDate>
+        <itunes:duration>13:46</itunes:duration>
+        <itunes:keywords></itunes:keywords>
+        <album>De Zwarte Lijst 2011</album>
+        <itunes:author>John Coltrane</itunes:author>
+        <guid>1690db4bafb9cc11105741b38a14b0f4</guid>
+      </item>
+      <item>
+        <title>Ain't No Mountain High Enough</title>
+        <enclosure length="3028638" type="type/mp3" url="http://10.0.0.1/0039 - Marvin Gaye &amp; Tammi Terrell - Ain&apos;t No Mountain High Enough.mp3" />
+        <pubDate>Fri Oct 21 17:22:08 2011</pubDate>
+        <itunes:duration>02:29</itunes:duration>
+        <itunes:keywords></itunes:keywords>
+        <album>De Zwarte Lijst 2011</album>
+        <itunes:author>Marvin Gaye &amp; Tammi Terrell</itunes:author>
+        <guid>c79a1042a7a4cbe3823cc6f96254b192</guid>
+      </item>
+      <item>
+        <title>A love supreme, Part I - Acknowledgement</title>
+        <enclosure length="11845661" type="type/mp3" url="http://10.0.0.1/0064 - John Coltrane - A love supreme, Part I - Acknowledgement.mp3" />
+        <pubDate>Fri Oct 21 17:31:45 2011</pubDate>
+        <itunes:duration>07:47</itunes:duration>
+        <itunes:keywords> 000006BE 0000014F 000031DC 000009E3 00030D57 00053065 00006481 00005F7E 00030D85 00053065</itunes:keywords>
+        <album>De Zwarte Lijst 2011</album>
+        <itunes:author>John Coltrane</itunes:author>
+        <guid>fbc103e361042d5efc75f6f56c3a7fdf</guid>
+      </item>
+      <item>
+        <title>Chan Chan</title>
+        <enclosure length="4757127" type="type/mp3" url="http://10.0.0.1/0027 - Buena Vista Social Club - Chan Chan.mp3" />
+        <pubDate>Fri Oct 21 16:29:02 2011</pubDate>
+        <itunes:duration>04:18</itunes:duration>
+        <itunes:keywords></itunes:keywords>
+        <album>De Zwarte Lijst 2011</album>
+        <itunes:author>Buena Vista Social Club</itunes:author>
+        <guid>bf14dea4e1a334823b7f249b929d0251</guid>
+      </item>
+      <item>
+        <title>Mr. Bojangles</title>
+        <enclosure length="6154840" type="type/mp3" url="http://10.0.0.1/0098 - Sammy Davis Junior - Mr. Bojangles.mp3" />
+        <pubDate>Fri Oct 21 17:23:40 2011</pubDate>
+        <itunes:duration>05:45</itunes:duration>
+        <itunes:keywords></itunes:keywords>
+        <album>De Zwarte Lijst 2011</album>
+        <itunes:author>Sammy Davis Junior</itunes:author>
+        <guid>0bd062b91e9e09d2fb8fdd0f58d31bcf</guid>
+      </item>
+      <item>
+        <title>Let's Stay Together</title>
+        <enclosure length="5306170" type="type/mp3" url="http://10.0.0.1/0018 - Al Green - Let&apos;s Stay Together.mp3" />
+        <pubDate>Fri Oct 21 17:27:21 2011</pubDate>
+        <itunes:duration>03:15</itunes:duration>
+        <itunes:keywords></itunes:keywords>
+        <album>De Zwarte Lijst 2011</album>
+        <itunes:author>Al Green</itunes:author>
+        <guid>4a29014817aeb99becc45cc8ce29ff83</guid>
+      </item>
+      <item>
+        <title>Green Onions</title>
+        <enclosure length="7444812" type="type/mp3" url="http://10.0.0.1/0042 - Booker T. &amp; The MG&apos;s - Green Onions.mp3" />
+        <pubDate>Fri Oct 21 17:28:50 2011</pubDate>
+        <itunes:duration>02:50</itunes:duration>
+        <itunes:keywords></itunes:keywords>
+        <album>De Zwarte Lijst 2011</album>
+        <itunes:author>Booker T. &amp; The MG's</itunes:author>
+        <guid>ccc4cc006dcd565bbd277559033bffa9</guid>
+      </item>
+      <item>
+        <title>Cold Sweat</title>
+        <enclosure length="18528121" type="type/mp3" url="http://10.0.0.1/0086 - James Brown - Cold Sweat.mp3" />
+        <pubDate>Fri Oct 21 17:10:54 2011</pubDate>
+        <itunes:duration>07:27</itunes:duration>
+        <itunes:keywords></itunes:keywords>
+        <album>De Zwarte Lijst 2011</album>
+        <itunes:author>James Brown</itunes:author>
+        <guid>221971ccce584f87643d2825d4ef5dca</guid>
+      </item>
+      <item>
+        <title>Sinnerman</title>
+        <enclosure length="10541707" type="type/mp3" url="http://10.0.0.1/0085 - Nina Simone - Sinnerman.mp3" />
+        <pubDate>Fri Oct 21 17:09:48 2011</pubDate>
+        <itunes:duration>10:20</itunes:duration>
+        <itunes:keywords></itunes:keywords>
+        <album>De Zwarte Lijst 2011</album>
+        <itunes:author>Nina Simone</itunes:author>
+        <guid>3601fc2071f749c9d1f673e6ca3e4205</guid>
+      </item>
+      <item>
+        <title>When A Man Loves A Woman</title>
+        <enclosure length="7725897" type="type/mp3" url="http://10.0.0.1/0065 - Percy Sledge - When A Man Loves A Woman.mp3" />
+        <pubDate>Fri Oct 21 17:28:20 2011</pubDate>
+        <itunes:duration>02:57</itunes:duration>
+        <itunes:keywords></itunes:keywords>
+        <album>De Zwarte Lijst 2011</album>
+        <itunes:author>Percy Sledge</itunes:author>
+        <guid>88937cb3625176cd19d4f35172ae50c8</guid>
+      </item>
+      <item>
+        <title>Use Me</title>
+        <enclosure length="4249188" type="type/mp3" url="http://10.0.0.1/0080 - Bill Withers - Use Me.mp3" />
+        <pubDate>Fri Oct 21 16:28:48 2011</pubDate>
+        <itunes:duration>03:46</itunes:duration>
+        <itunes:keywords></itunes:keywords>
+        <album>De Zwarte Lijst 2011</album>
+        <itunes:author>Bill Withers</itunes:author>
+        <guid>a7f9dabe4a5c0ee1ac80404bfd612984</guid>
+      </item>
+      <item>
+        <title>Across 110th Street</title>
+        <enclosure length="6101968" type="type/mp3" url="http://10.0.0.1/0051 - Bobby Womack - Across 110th Street.mp3" />
+        <pubDate>Fri Oct 21 17:24:10 2011</pubDate>
+        <itunes:duration>03:47</itunes:duration>
+        <itunes:keywords></itunes:keywords>
+        <album>De Zwarte Lijst 2011</album>
+        <itunes:author>Bobby Womack</itunes:author>
+        <guid>0ebd3e2f03257accc8ccb008f7e7ea57</guid>
+      </item>
+      <item>
+        <title>Summertime</title>
+        <enclosure length="7032726" type="type/mp3" url="http://10.0.0.1/0045 - Ella Fitzgerald &amp; Louis Armstrong - Summertime.mp3" />
+        <pubDate>Fri Oct 21 17:32:17 2011</pubDate>
+        <itunes:duration>04:53</itunes:duration>
+        <itunes:keywords></itunes:keywords>
+        <album>De Zwarte Lijst 2011</album>
+        <itunes:author>Ella Fitzgerald &amp; Louis Armstrong</itunes:author>
+        <guid>6002706ef933629f728248bc00691328</guid>
+      </item>
+      <item>
+        <title>Let's Get It On</title>
+        <enclosure length="6807908" type="type/mp3" url="http://10.0.0.1/0016 - Marvin Gaye - Let&apos;s Get It On.mp3" />
+        <pubDate>Fri Oct 21 17:21:28 2011</pubDate>
+        <itunes:duration>03:59</itunes:duration>
+        <itunes:keywords></itunes:keywords>
+        <album>De Zwarte Lijst 2011</album>
+        <itunes:author>Marvin Gaye</itunes:author>
+        <guid>40346d67421fd91a1934b2678493697f</guid>
+      </item>
+      <item>
+        <title>Family Affair</title>
+        <enclosure length="4843607" type="type/mp3" url="http://10.0.0.1/0087 - Sly &amp; The Family Stone - Family Affair.mp3" />
+        <pubDate>Fri Oct 21 16:48:55 2011</pubDate>
+        <itunes:duration>03:04</itunes:duration>
+        <itunes:keywords> 000000FC 0000011D 00000455 00000476 000290F3 00024825 00005246 000040CD 000290F3 000290F3</itunes:keywords>
+        <album>De Zwarte Lijst 2011</album>
+        <itunes:author>Sly &amp; The Family Stone</itunes:author>
+        <guid>eb7ba170bd02c91313da2827256156b1</guid>
+      </item>
+      <item>
+        <title>My Funny Valentine</title>
+        <enclosure length="4452481" type="type/mp3" url="http://10.0.0.1/0012 - Chet Baker - My Funny Valentine.mp3" />
+        <pubDate>Fri Oct 21 16:02:07 2011</pubDate>
+        <itunes:duration>02:20</itunes:duration>
+        <itunes:keywords></itunes:keywords>
+        <album>De Zwarte Lijst 2011</album>
+        <itunes:author>Chet Baker</itunes:author>
+        <guid>e87f541440bae9b14e86cd45f98c46ba</guid>
+      </item>
+      <item>
+        <title>Warwick Avenue</title>
+        <enclosure length="9721880" type="type/mp3" url="http://10.0.0.1/0089 - Duffy - Warwick Avenue.mp3" />
+        <pubDate>Fri Oct 21 16:46:30 2011</pubDate>
+        <itunes:duration>03:47</itunes:duration>
+        <itunes:keywords></itunes:keywords>
+        <album>De Zwarte Lijst 2011</album>
+        <itunes:author>Duffy</itunes:author>
+        <guid>f9fae1eadfafb13ddad78a23a5020cba</guid>
+      </item>
+      <item>
+        <title>Take Five</title>
+        <enclosure length="9185169" type="type/mp3" url="http://10.0.0.1/0019 - Dave Brubeck - Take Five.mp3" />
+        <pubDate>Fri Oct 21 16:28:08 2011</pubDate>
+        <itunes:duration>05:27</itunes:duration>
+        <itunes:keywords></itunes:keywords>
+        <album>De Zwarte Lijst 2011</album>
+        <itunes:author>Dave Brubeck</itunes:author>
+        <guid>fd8e69cf1bcf5ca32fc8ee75bffbc29f</guid>
+      </item>
+      <item>
+        <title>Blow Me Away</title>
+        <enclosure length="4950550" type="type/mp3" url="http://10.0.0.1/0077 - Alain Clark - Blow Me Away.mp3" />
+        <pubDate>Fri Oct 21 17:22:46 2011</pubDate>
+        <itunes:duration>03:04</itunes:duration>
+        <itunes:keywords></itunes:keywords>
+        <album>De Zwarte Lijst 2011</album>
+        <itunes:author>Alain Clark</itunes:author>
+        <guid>8b4bb32f8b4447a624bc5c04cdb8a042</guid>
+      </item>
+      <item>
+        <title>Don't You Worry 'Bout A Thing</title>
+        <enclosure length="4594198" type="type/mp3" url="http://10.0.0.1/0069 - Incognito - Don&apos;t You Worry &apos;Bout A Thing.mp3" />
+        <pubDate>Fri Oct 21 17:26:00 2011</pubDate>
+        <itunes:duration>04:07</itunes:duration>
+        <itunes:keywords></itunes:keywords>
+        <album>De Zwarte Lijst 2011</album>
+        <itunes:author>Incognito</itunes:author>
+        <guid>ba03654af4c508a6334821c3599efef4</guid>
+      </item>
+      <item>
+        <title>My Way</title>
+        <enclosure length="7666843" type="type/mp3" url="http://10.0.0.1/0073 - Frank Sinatra - My Way.mp3" />
+        <pubDate>Fri Oct 21 17:31:05 2011</pubDate>
+        <itunes:duration>04:35</itunes:duration>
+        <itunes:keywords></itunes:keywords>
+        <album>De Zwarte Lijst 2011</album>
+        <itunes:author>Frank Sinatra</itunes:author>
+        <guid>d4f3ad51427ea7c10903b64bd7bd144d</guid>
+      </item>
+      <item>
+        <title>Fallin'</title>
+        <enclosure length="5338016" type="type/mp3" url="http://10.0.0.1/0017 - Alicia Keys - Fallin&apos;.mp3" />
+        <pubDate>Fri Oct 21 16:07:18 2011</pubDate>
+        <itunes:duration>03:16</itunes:duration>
+        <itunes:keywords></itunes:keywords>
+        <album>De Zwarte Lijst 2011</album>
+        <itunes:author>Alicia Keys</itunes:author>
+        <guid>7ad7e0a68321eff1fa88c5e1009ab49e</guid>
+      </item>
+      <item>
+        <title>What's Going On</title>
+        <enclosure length="6428714" type="type/mp3" url="http://10.0.0.1/0002 - Marvin Gaye - What&apos;s Going On.mp3" />
+        <pubDate>Fri Oct 21 17:04:04 2011</pubDate>
+        <itunes:duration>03:49</itunes:duration>
+        <itunes:keywords></itunes:keywords>
+        <album>De Zwarte Lijst 2011</album>
+        <itunes:author>Marvin Gaye</itunes:author>
+        <guid>c429500d2b7884d2a1ecbe425900b39f</guid>
+      </item>
+      <item>
+        <title>Do For Love</title>
+        <enclosure length="5608693" type="type/mp3" url="http://10.0.0.1/0074 - Sabrina Starke - Do For Love.mp3" />
+        <pubDate>Fri Oct 21 17:21:35 2011</pubDate>
+        <itunes:duration>03:31</itunes:duration>
+        <itunes:keywords>0</itunes:keywords>
+        <album>De Zwarte Lijst 2011</album>
+        <itunes:author>Sabrina Starke</itunes:author>
+        <guid>bf13d31a4a322b6897cc3bc520fc978b</guid>
+      </item>
+      <item>
+        <title>I'd Rather Go Blind</title>
+        <enclosure length="3077016" type="type/mp3" url="http://10.0.0.1/0057 - Etta James - I&apos;d Rather Go Blind.mp3" />
+        <pubDate>Fri Oct 21 17:24:22 2011</pubDate>
+        <itunes:duration>02:33</itunes:duration>
+        <itunes:keywords></itunes:keywords>
+        <album>De Zwarte Lijst 2011</album>
+        <itunes:author>Etta James</itunes:author>
+        <guid>af7aacdea8b595b5e00e1ea128d7c686</guid>
+      </item>
+      <item>
+        <title>Make You Feel My Love</title>
+        <enclosure length="4897967" type="type/mp3" url="http://10.0.0.1/0059 - Adele - Make You Feel My Love.mp3" />
+        <pubDate>Fri Oct 21 16:58:15 2011</pubDate>
+        <itunes:duration>03:32</itunes:duration>
+        <itunes:keywords></itunes:keywords>
+        <album>De Zwarte Lijst 2011</album>
+        <itunes:author>Adele</itunes:author>
+        <guid>7435ca1714cecb50d52147f7177afbaf</guid>
+      </item>
+      <item>
+        <title>Feeling Good</title>
+        <enclosure length="4786835" type="type/mp3" url="http://10.0.0.1/0076 - Nina Simone - Feeling Good.mp3" />
+        <pubDate>Fri Oct 21 17:32:18 2011</pubDate>
+        <itunes:duration>02:53</itunes:duration>
+        <itunes:keywords></itunes:keywords>
+        <album>De Zwarte Lijst 2011</album>
+        <itunes:author>Nina Simone</itunes:author>
+        <guid>816e1ddc6f6b83db4e294d3466491bad</guid>
+      </item>
+      <item>
+        <title>Roof Garden</title>
+        <enclosure length="6669489" type="type/mp3" url="http://10.0.0.1/0025 - Al Jerreau - Roof Garden.mp3" />
+        <pubDate>Fri Oct 21 16:42:26 2011</pubDate>
+        <itunes:duration>06:18</itunes:duration>
+        <itunes:keywords></itunes:keywords>
+        <album>De Zwarte Lijst 2011</album>
+        <itunes:author>Al Jerreau</itunes:author>
+        <guid>d872db6689f8cbb91422856cddc82b5a</guid>
+      </item>
+      <item>
+        <title>Midnight Train To Georgia</title>
+        <enclosure length="5042087" type="type/mp3" url="http://10.0.0.1/0009 - Gladys Knight &amp; The Pips - Midnight Train To Georgia.mp3" />
+        <pubDate>Fri Oct 21 16:47:28 2011</pubDate>
+        <itunes:duration>04:36</itunes:duration>
+        <itunes:keywords></itunes:keywords>
+        <album>De Zwarte Lijst 2011</album>
+        <itunes:author>Gladys Knight &amp; The Pips</itunes:author>
+        <guid>0cb8b091d0fa6f5493d248ddbd63a0d8</guid>
+      </item>
+      <item>
+        <title>Father And Friend</title>
+        <enclosure length="6369541" type="type/mp3" url="http://10.0.0.1/0043 - Alain Clark - Father And Friend.mp3" />
+        <pubDate>Fri Oct 21 17:25:40 2011</pubDate>
+        <itunes:duration>04:16</itunes:duration>
+        <itunes:keywords></itunes:keywords>
+        <album>De Zwarte Lijst 2011</album>
+        <itunes:author>Alain Clark</itunes:author>
+        <guid>d3f292c15119dd51eafed61256583e32</guid>
+      </item>
+      <item>
+        <title>Strange Fruit</title>
+        <enclosure length="3737295" type="type/mp3" url="http://10.0.0.1/0022 - Billie Holiday - Strange Fruit.mp3" />
+        <pubDate>Fri Oct 21 16:52:41 2011</pubDate>
+        <itunes:duration>03:14</itunes:duration>
+        <itunes:keywords></itunes:keywords>
+        <album>De Zwarte Lijst 2011</album>
+        <itunes:author>Billie Holiday</itunes:author>
+        <guid>a90cf323d4b909cda76792559231751f</guid>
+      </item>
+      <item>
+        <title>No Woman No Cry (Live)</title>
+        <enclosure length="13548532" type="type/mp3" url="http://10.0.0.1/0075 - Bob Marley And The Wailers - No Woman No Cry (Live).mp3" />
+        <pubDate>Fri Oct 21 17:27:52 2011</pubDate>
+        <itunes:duration>07:09</itunes:duration>
+        <itunes:keywords></itunes:keywords>
+        <album>De Zwarte Lijst 2011</album>
+        <itunes:author>Bob Marley And The Wailers</itunes:author>
+        <guid>96d0f43f00756e10b8434460b8f62693</guid>
+      </item>
+      <item>
+        <title>I Want You Back</title>
+        <enclosure length="7287049" type="type/mp3" url="http://10.0.0.1/0099 - The Jackson 5 - I Want You Back.mp3" />
+        <pubDate>Fri Oct 21 17:16:47 2011</pubDate>
+        <itunes:duration>02:58</itunes:duration>
+        <itunes:keywords>0</itunes:keywords>
+        <album>De Zwarte Lijst 2011</album>
+        <itunes:author>The Jackson 5</itunes:author>
+        <guid>24124a4eb72af6b15192ebd566b6d021</guid>
+      </item>
+      <item>
+        <title>Little Ghetto Boy</title>
+        <enclosure length="6132368" type="type/mp3" url="http://10.0.0.1/0015 - Donny Hathaway - Little Ghetto Boy.mp3" />
+        <pubDate>Fri Oct 21 16:33:55 2011</pubDate>
+        <itunes:duration>04:23</itunes:duration>
+        <itunes:keywords></itunes:keywords>
+        <album>De Zwarte Lijst 2011</album>
+        <itunes:author>Donny Hathaway</itunes:author>
+        <guid>9f3c7c7b8afc1e9b0c51550f2a585139</guid>
+      </item>
+      <item>
+        <title>Tonight Is The Night</title>
+        <enclosure length="8534813" type="type/mp3" url="http://10.0.0.1/0070 - Betty Wright - Tonight Is The Night.mp3" />
+        <pubDate>Fri Oct 21 16:40:19 2011</pubDate>
+        <itunes:duration>08:15</itunes:duration>
+        <itunes:keywords></itunes:keywords>
+        <album>De Zwarte Lijst 2011</album>
+        <itunes:author>Betty Wright</itunes:author>
+        <guid>a9443c28dfc9e059c137e63014faf4c4</guid>
+      </item>
+      <item>
+        <title>Let The Music Play</title>
+        <enclosure length="3842016" type="type/mp3" url="http://10.0.0.1/0046 - Barry White - Let The Music Play.mp3" />
+        <pubDate>Fri Oct 21 16:22:48 2011</pubDate>
+        <itunes:duration>03:21</itunes:duration>
+        <itunes:keywords></itunes:keywords>
+        <album>De Zwarte Lijst 2011</album>
+        <itunes:author>Barry White</itunes:author>
+        <guid>cf4cdf0f1bc13a50eae895a025b989ba</guid>
+      </item>
+      <item>
+        <title>Dance Me To The End Of Love</title>
+        <enclosure length="6248070" type="type/mp3" url="http://10.0.0.1/0091 - Madeleine Peyroux - Dance Me To The End Of Love.mp3" />
+        <pubDate>Fri Oct 21 17:23:05 2011</pubDate>
+        <itunes:duration>03:54</itunes:duration>
+        <itunes:keywords></itunes:keywords>
+        <album>De Zwarte Lijst 2011</album>
+        <itunes:author>Madeleine Peyroux</itunes:author>
+        <guid>256d755d375460f6d9ebc9cc35f18a75</guid>
+      </item>
+      <item>
+        <title>Ain't No Sunshine</title>
+        <enclosure length="3710341" type="type/mp3" url="http://10.0.0.1/0005 - Bill Withers - Ain&apos;t No Sunshine.mp3" />
+        <pubDate>Fri Oct 21 16:35:12 2011</pubDate>
+        <itunes:duration>02:08</itunes:duration>
+        <itunes:keywords></itunes:keywords>
+        <album>De Zwarte Lijst 2011</album>
+        <itunes:author>Bill Withers</itunes:author>
+        <guid>c01dbd32bfe1382fabb34d094f1d6ef2</guid>
+      </item>
+      <item>
+        <title>River Deep Mountain High</title>
+        <enclosure length="4157409" type="type/mp3" url="http://10.0.0.1/0054 - Ike &amp; Tina Turner - River Deep Mountain High.mp3" />
+        <pubDate>Fri Oct 21 17:02:35 2011</pubDate>
+        <itunes:duration>03:41</itunes:duration>
+        <itunes:keywords></itunes:keywords>
+        <album>De Zwarte Lijst 2011</album>
+        <itunes:author>Ike &amp; Tina Turner</itunes:author>
+        <guid>1d85fc8b41bc2acf9c18e542d81eb124</guid>
+      </item>
+      <item>
+        <title>Papa Was A Rolling Stone</title>
+        <enclosure length="17324534" type="type/mp3" url="http://10.0.0.1/0031 - Temptations - Papa Was A Rolling Stone.mp3" />
+        <pubDate>Fri Oct 21 17:22:29 2011</pubDate>
+        <itunes:duration>06:57</itunes:duration>
+        <itunes:keywords></itunes:keywords>
+        <album>De Zwarte Lijst 2011</album>
+        <itunes:author>Temptations</itunes:author>
+        <guid>17d46cb7f1fd250ad403616f970f50ce</guid>
+      </item>
+      <item>
+        <title>As</title>
+        <enclosure length="12330104" type="type/mp3" url="http://10.0.0.1/0072 - Stevie Wonder - As.mp3" />
+        <pubDate>Fri Oct 21 17:31:31 2011</pubDate>
+        <itunes:duration>07:08</itunes:duration>
+        <itunes:keywords> 000003DE 0000052F 00001604 00002F9A 0004B01E 000439D0 00008000 00008000 0005F125 0005F125</itunes:keywords>
+        <album>De Zwarte Lijst 2011</album>
+        <itunes:author>Stevie Wonder</itunes:author>
+        <guid>789615522afd48206b485ab9ccd9d0d6</guid>
+      </item>
+      <item>
+        <title>Try A Little Tenderness</title>
+        <enclosure length="13341519" type="type/mp3" url="http://10.0.0.1/0032 - Otis Redding - Try A Little Tenderness.mp3" />
+        <pubDate>Fri Oct 21 17:11:01 2011</pubDate>
+        <itunes:duration>03:51</itunes:duration>
+        <itunes:keywords></itunes:keywords>
+        <album>De Zwarte Lijst 2011</album>
+        <itunes:author>Otis Redding</itunes:author>
+        <guid>bf40b270fd8ac801ec60450c63b04f9e</guid>
+      </item>
+      <item>
+        <title>Move On Up</title>
+        <enclosure length="7378984" type="type/mp3" url="http://10.0.0.1/0006 - Curtis Mayfield - Move On Up.mp3" />
+        <pubDate>Fri Oct 21 16:48:32 2011</pubDate>
+        <itunes:duration>02:48</itunes:duration>
+        <itunes:keywords></itunes:keywords>
+        <album>De Zwarte Lijst 2011</album>
+        <itunes:author>Curtis Mayfield</itunes:author>
+        <guid>584afaa9a2e399bb015ce7f7a5fb9aec</guid>
+      </item>
+      <item>
+        <title>Multiply</title>
+        <enclosure length="6874467" type="type/mp3" url="http://10.0.0.1/0055 - Jamie Lidell - Multiply.mp3" />
+        <pubDate>Fri Oct 21 17:27:57 2011</pubDate>
+        <itunes:duration>04:26</itunes:duration>
+        <itunes:keywords></itunes:keywords>
+        <album>De Zwarte Lijst 2011</album>
+        <itunes:author>Jamie Lidell</itunes:author>
+        <guid>ce4441dd5a594437e0342dafad600228</guid>
+      </item>
+      <item>
+        <title>Sexual Healing</title>
+        <enclosure length="7045132" type="type/mp3" url="http://10.0.0.1/0030 - Marvin Gaye - Sexual Healing.mp3" />
+        <pubDate>Fri Oct 21 16:40:11 2011</pubDate>
+        <itunes:duration>04:07</itunes:duration>
+        <itunes:keywords></itunes:keywords>
+        <album>De Zwarte Lijst 2011</album>
+        <itunes:author>Marvin Gaye</itunes:author>
+        <guid>e5ac706ebe5b617c798121db555a9cb6</guid>
+      </item>
+      <item>
+        <title>Grandma's Hands</title>
+        <enclosure length="3563647" type="type/mp3" url="http://10.0.0.1/0095 - Bill Withers - Grandma&apos;s Hands.mp3" />
+        <pubDate>Fri Oct 21 16:26:49 2011</pubDate>
+        <itunes:duration>02:02</itunes:duration>
+        <itunes:keywords></itunes:keywords>
+        <album>De Zwarte Lijst 2011</album>
+        <itunes:author>Bill Withers</itunes:author>
+        <guid>353e33f0586ec5f7a334496e47164479</guid>
+      </item>
+      <item>
+        <title>A Real Mother For Ya</title>
+        <enclosure length="5439251" type="type/mp3" url="http://10.0.0.1/0026 - Johnny Guitar Watson - A Real Mother For Ya.mp3" />
+        <pubDate>Fri Oct 21 16:36:08 2011</pubDate>
+        <itunes:duration>05:01</itunes:duration>
+        <itunes:keywords></itunes:keywords>
+        <album>De Zwarte Lijst 2011</album>
+        <itunes:author>Johnny Guitar Watson</itunes:author>
+        <guid>612a29872fca6930ce8156ecc0bc58e1</guid>
+      </item>
+      <item>
+        <title>Ain't Got No - I Got Life</title>
+        <enclosure length="3895929" type="type/mp3" url="http://10.0.0.1/0014 - Nina Simone - Ain&apos;t Got No - I Got Life.mp3" />
+        <pubDate>Fri Oct 21 17:06:13 2011</pubDate>
+        <itunes:duration>02:16</itunes:duration>
+        <itunes:keywords></itunes:keywords>
+        <album>De Zwarte Lijst 2011</album>
+        <itunes:author>Nina Simone</itunes:author>
+        <guid>3a7afb4d07b2943afffd44ec711ff5ae</guid>
+      </item>
+      <item>
+        <title>Chasing Pavements</title>
+        <enclosure length="9058185" type="type/mp3" url="http://10.0.0.1/0096 - Adele - Chasing Pavements.mp3" />
+        <pubDate>Fri Oct 21 16:43:13 2011</pubDate>
+        <itunes:duration>03:30</itunes:duration>
+        <itunes:keywords></itunes:keywords>
+        <album>De Zwarte Lijst 2011</album>
+        <itunes:author>Adele</itunes:author>
+        <guid>05f18288489453f3fcbc31240706f1dd</guid>
+      </item>
+      <item>
+        <title>I Wish</title>
+        <enclosure length="10725972" type="type/mp3" url="http://10.0.0.1/0034 - Stevie Wonder - I Wish.mp3" />
+        <pubDate>Fri Oct 21 17:17:45 2011</pubDate>
+        <itunes:duration>04:12</itunes:duration>
+        <itunes:keywords></itunes:keywords>
+        <album>De Zwarte Lijst 2011</album>
+        <itunes:author>Stevie Wonder</itunes:author>
+        <guid>ee5b06adf63028b0c323c7091cb2b558</guid>
+      </item>
+      <item>
+        <title>Never Never Gonna Give You Up</title>
+        <enclosure length="6653214" type="type/mp3" url="http://10.0.0.1/0079 - Barry White - Never Never Gonna Give You Up.mp3" />
+        <pubDate>Fri Oct 21 16:52:22 2011</pubDate>
+        <itunes:duration>04:10</itunes:duration>
+        <itunes:keywords></itunes:keywords>
+        <album>De Zwarte Lijst 2011</album>
+        <itunes:author>Barry White</itunes:author>
+        <guid>1d7593b2cd02842841c8f82eb9e72d9a</guid>
+      </item>
+      <item>
+        <title>(Not Just) Knee Deep</title>
+        <enclosure length="7963686" type="type/mp3" url="http://10.0.0.1/0066 - Funkadelic - (Not Just) Knee Deep.mp3" />
+        <pubDate>Fri Oct 21 17:23:20 2011</pubDate>
+        <itunes:duration>04:27</itunes:duration>
+        <itunes:keywords></itunes:keywords>
+        <album>De Zwarte Lijst 2011</album>
+        <itunes:author>Funkadelic</itunes:author>
+        <guid>75611a223624d3728de3f49984ceabf9</guid>
+      </item>
+      <item>
+        <title>Me &amp; Mrs Jones</title>
+        <enclosure length="7330275" type="type/mp3" url="http://10.0.0.1/0083 - Billy Paul - Me &amp; Mrs Jones.mp3" />
+        <pubDate>Fri Oct 21 17:00:19 2011</pubDate>
+        <itunes:duration>04:39</itunes:duration>
+        <itunes:keywords></itunes:keywords>
+        <album>De Zwarte Lijst 2011</album>
+        <itunes:author>Billy Paul</itunes:author>
+        <guid>be0acd4ab35171e6495dc4a07af5f072</guid>
+      </item>
+      <item>
+        <title>Think</title>
+        <enclosure length="5387384" type="type/mp3" url="http://10.0.0.1/0047 - Aretha Franklin - Think.mp3" />
+        <pubDate>Fri Oct 21 17:17:38 2011</pubDate>
+        <itunes:duration>03:18</itunes:duration>
+        <itunes:keywords></itunes:keywords>
+        <album>De Zwarte Lijst 2011</album>
+        <itunes:author>Aretha Franklin</itunes:author>
+        <guid>8818b338ff2f11de269c8a2e3ef79edc</guid>
+      </item>
+      <item>
+        <title>Backstabbers</title>
+        <enclosure length="5221395" type="type/mp3" url="http://10.0.0.1/0028 - O&apos;Jays - Backstabbers.mp3" />
+        <pubDate>Fri Oct 21 17:31:06 2011</pubDate>
+        <itunes:duration>03:05</itunes:duration>
+        <itunes:keywords></itunes:keywords>
+        <album>De Zwarte Lijst 2011</album>
+        <itunes:author>O'Jays</itunes:author>
+        <guid>1f3a1695741adf0f44e2c1abdd07b8d1</guid>
+      </item>
+      <item>
+        <title>September</title>
+        <enclosure length="9295110" type="type/mp3" url="http://10.0.0.1/0050 - Earth Wind &amp; Fire - September.mp3" />
+        <pubDate>Fri Oct 21 17:24:56 2011</pubDate>
+        <itunes:duration>03:36</itunes:duration>
+        <itunes:keywords></itunes:keywords>
+        <album>De Zwarte Lijst 2011</album>
+        <itunes:author>Earth Wind &amp; Fire</itunes:author>
+        <guid>eb7cea619ffe351290080914822c2144</guid>
+      </item>
+      <item>
+        <title>Bernadette</title>
+        <enclosure length="5093975" type="type/mp3" url="http://10.0.0.1/0088 - Four Tops - Bernadette.mp3" />
+        <pubDate>Fri Oct 21 16:40:40 2011</pubDate>
+        <itunes:duration>03:06</itunes:duration>
+        <itunes:keywords></itunes:keywords>
+        <album>De Zwarte Lijst 2011</album>
+        <itunes:author>Four Tops</itunes:author>
+        <guid>b1f345f639c3c669d85a361bfb4923b5</guid>
+      </item>
+      <item>
+        <title>Love Man</title>
+        <enclosure length="3961169" type="type/mp3" url="http://10.0.0.1/0097 - Otis Reading - Love Man.mp3" />
+        <pubDate>Fri Oct 21 16:54:08 2011</pubDate>
+        <itunes:duration>02:19</itunes:duration>
+        <itunes:keywords></itunes:keywords>
+        <album>De Zwarte Lijst 2011</album>
+        <itunes:author>Otis Reading</itunes:author>
+        <guid>a3e8b578371240079af76fcf06cae13e</guid>
+      </item>
+      <item>
+        <title>(Sittin' On) The Dock of the Bay</title>
+        <enclosure length="3321864" type="type/mp3" url="http://10.0.0.1/0001 - Otis Redding - (Sittin&apos; On) The Dock of the Bay.mp3" />
+        <pubDate>Fri Oct 21 16:25:10 2011</pubDate>
+        <itunes:duration>02:45</itunes:duration>
+        <itunes:keywords></itunes:keywords>
+        <album>De Zwarte Lijst 2011</album>
+        <itunes:author>Otis Redding</itunes:author>
+        <guid>1a5fb5e4340d92086734812f74b4249c</guid>
       </item>
     </channel>
   </rss>
