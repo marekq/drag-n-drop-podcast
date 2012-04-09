@@ -8,13 +8,13 @@ from SimpleXMLWriter import XMLWriter
 
 ###REQUIRED PART###
 # define several variables for display in your podcast player
-url = 'http://marek.asia/music'
-name = 'marek'
-title = 'podcast directory marekq'
-description = 'mixtapes i share with friends'
-author = 'marek'
+url = 'http://10.0.0.1'
+name = 'your own podcasts'
+title = 'podcast directory'
+description = 'music i share with friends'
+author = 'iwastoolazytochangethis'
 category = 'music'
-email = 'marek@marek.asia'
+email = 'you@isp.com'
 ###REQUIRED PART###
 
 ###
