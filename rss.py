@@ -5,17 +5,8 @@
 
 import eyeD3, sys, os, hashlib, time
 from SimpleXMLWriter import XMLWriter
-
-###REQUIRED PART###
-# define several variables for display in your podcast player
-url = 'http://10.0.0.1'
-name = 'your own podcasts'
-title = 'podcast directory'
-description = 'music i share with friends'
-author = 'iwastoolazytochangethis'
-category = 'music'
-email = 'you@isp.com'
-###REQUIRED PART###
+# import configuration file
+from cfg import *
 
 ###
 # define the output of the program (either stdout or file)
@@ -40,8 +31,12 @@ xml.element('itunes:name', author)
 xml.element('itunes:email', email)
 xml.end('itunes:owner')
 
+# check of the dirpath for music has been defined, else set to current dir
+if musicpath == "":
+	musicpath = '.'
+
 # crawl the current directory recursively
-for dirname, dirnames, filenames in os.walk('.'):
+for dirname, dirnames, filenames in os.walk(musicpath):
     for filename in filenames:
 	if 'mp3' in filename or 'm4a' in filename:
 		# define the path of the fime
@@ -59,10 +54,12 @@ for dirname, dirnames, filenames in os.walk('.'):
 		
 		# the following attributes are optional, comment if needed
 		xml.element('itunes:duration', fileinfo.getPlayTimeString())
+		xml.element('duration', fileinfo.getPlayTimeString())
 		xml.element('itunes:keywords', tag.getComment())
                 xml.element('album', tag.getAlbum())
 		xml.element('bpm', tag.getBPM())
                 xml.element('itunes:author', tag.getArtist())
+		xml.element('author', tag.getArtist())
 		
 		# calculate the guid by making an md5 hash
 		guid = hashlib.md5()
