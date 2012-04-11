@@ -48,9 +48,13 @@ for dirname, dirnames, filenames in os.walk(musicpath):
 		tag.link(path)
 		fileinfo = eyeD3.Mp3AudioFile(path)
 		# retrieve several required fields
-		xml.element('title', tag.getTitle())
+		# not having a title sucks, so replacing it if blank
+		title = tag.getTitle()
+		if title == '':
+			title = filename
+		xml.element('title', title)
 		xml.element('enclosure', url=str(url + '/' + path[2:]), length=str(fileinfo.getSize()), type='type/' + os.path.splitext(filename)[1][1:])
-		xml.element('pubDate', time.ctime(os.path.getmtime(path)))
+		xml.element('pubDate', time.ctime(os.path.getctime(path)))
 		
 		# the following attributes are optional, comment if needed
 		xml.element('itunes:duration', fileinfo.getPlayTimeString())
@@ -60,6 +64,7 @@ for dirname, dirnames, filenames in os.walk(musicpath):
 		xml.element('bpm', tag.getBPM())
                 xml.element('itunes:author', tag.getArtist())
 		xml.element('author', tag.getArtist())
+		xml.element('link', link)
 		
 		# calculate the guid by making an md5 hash
 		guid = hashlib.md5()

@@ -4,6 +4,9 @@
 # the url where your music is accessible
 url = 'http://marek.asia/music'
 
+# link to your website in the rss feed
+link = 'http://www.marek.asia'
+
 # a generic name that will be displayed
 name = 'podcast directory'
 
