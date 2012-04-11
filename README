@@ -8,12 +8,8 @@ REQUIREMENTS
 
 	- A webserver (public/private)
 	- Music (the folder layout is irrelevant)
-	- Configuration of some variables in 'rss.py' (these are clearly marked)
+	- Configuration of variables in 'cfg.py'
 	- Podcast software that can accept RSS feeds (everything except for iTunes seems to work, I'm using Banshee on Ubuntu and Downcast on iPhone myself)
-
-INSTALL
-
-	Clone this repository. You need to have 'python-eyed3', it can be retrieved using your favourite package manager. Next, run the program in the root of your music folder and you will receive an XML file.
 
 EXAMPLES
 
@@ -21,7 +17,7 @@ EXAMPLES
 
 INSTALL
 
-	The script has been tested under Debian and Ubuntu. Clone the Git repository and run the rss.py program in the root of your music folder. The generated XML file which you can use with RSS will appear in your folder. PROTIP; add a cronjob that runs the program periodically so that the RSS reflects the contents of the directory.
+	The script has been tested under Debian and Ubuntu. Clone the Git repository, set the options in the config.py and run the rss.py program in the root of your music folder. The generated XML file which you can use with RSS will appear in your folder. PROTIP; add a cronjob that runs the program periodically so that the RSS reflects the contents of the directory.
 
 FUTURE WORK
 
