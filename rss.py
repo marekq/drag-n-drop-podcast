@@ -13,10 +13,7 @@ from cfg import *
 xml = XMLWriter('rss.xml')
 
 # head of the file
-output = xml.start('xml', version='1.0')
-xml.element('podcast')
-#output = xml.declaration()
-xml.rssdecl()
+output = xml.start('rss', version='2.0')
 
 # channel part of the file
 xml.start('channel')
@@ -24,16 +21,19 @@ xml.element('title', title)
 xml.element('link', url)
 xml.element('language', 'en-us')
 xml.element('description', description)
-xml.element('itunes:author', author)
-xml.element('itunes:category', category)
-xml.start('itunes:owner')
-xml.element('itunes:name', author)
-xml.element('itunes:email', email)
-xml.end('itunes:owner')
+xml.element('author', author)
+xml.element('category', category)
+xml.start('owner')
+xml.element('name', author)
+xml.element('email', email)
+xml.end('owner')
 
 # check of the dirpath for music has been defined, else set to current dir
 if musicpath == "":
 	musicpath = '.'
+
+# calculate the amount of chars in the defined webroot
+rootchars = int(musicpath.count('')) - 1
 
 # crawl the current directory recursively
 for dirname, dirnames, filenames in os.walk(musicpath):
@@ -41,29 +41,27 @@ for dirname, dirnames, filenames in os.walk(musicpath):
 	if 'mp3' in filename or 'm4a' in filename:
 		# define the path of the fime
 		path = os.path.join(dirname, filename)
-		
+		# get the dir structure from the webroot
+		webpath = path[rootchars:]
 		# create a new item for every file
 		xml.start('item')
 		tag = eyeD3.Tag()
 		tag.link(path)
 		fileinfo = eyeD3.Mp3AudioFile(path)
+
 		# retrieve several required fields
-		# not having a title sucks, so replacing it if blank
-		title = tag.getTitle()
-		if title == '':
-			title = filename
-		xml.element('title', title)
-		xml.element('enclosure', url=str(url + '/' + path[2:]), length=str(fileinfo.getSize()), type='type/' + os.path.splitext(filename)[1][1:])
+		xml.element('title', filename.split('.')[0])
+                xml.element('enclosure', url=str(url + '/' + webpath), length=str(fileinfo.getSize()), type='audio/mpeg')
 		xml.element('pubDate', time.ctime(os.path.getctime(path)))
+		xml.element('category', webpath.split('/')[0])
+		xml.element('description', str(webpath.split('/')[0]))
 		
-		# the following attributes are optional, comment if needed
-		xml.element('itunes:duration', fileinfo.getPlayTimeString())
+		# the following attributes are optional, uncomment if needed
 		xml.element('duration', fileinfo.getPlayTimeString())
-		xml.element('itunes:keywords', tag.getComment())
+		xml.element('keywords', tag.getComment())
                 xml.element('album', tag.getAlbum())
 		xml.element('bpm', tag.getBPM())
-                xml.element('itunes:author', tag.getArtist())
-		xml.element('author', tag.getArtist())
+                xml.element('author', tag.getArtist())
 		xml.element('link', link)
 		
 		# calculate the guid by making an md5 hash
@@ -73,6 +71,5 @@ for dirname, dirnames, filenames in os.walk(musicpath):
 		xml.end('item')
 
 # close tags and write file
-xml.end('channel')
-xml.rssdeclclose()
+#xml.end('channel')
 xml.close(output)
