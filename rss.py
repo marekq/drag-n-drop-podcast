@@ -23,6 +23,12 @@ xml.element('language', 'en-us')
 xml.element('description', description)
 xml.element('author', author)
 xml.element('category', category)
+
+xml.start('image')
+xml.element('url', image)
+xml.end('image')
+
+# channel owner information
 xml.start('owner')
 xml.element('name', author)
 xml.element('email', email)

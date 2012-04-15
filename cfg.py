@@ -10,6 +10,9 @@ link = 'http://www.marek.asia'
 # a generic name that will be displayed
 name = 'podcast directory'
 
+# picture for the podcast
+image = 'http://marek.asia/docs/marek.jpg'
+
 # the podcast name
 title = 'podcast directory marekq'
 
