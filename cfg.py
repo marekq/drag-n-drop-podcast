@@ -11,7 +11,7 @@ link = 'http://www.marek.asia'
 name = 'podcast directory'
 
 # picture for the podcast
-image = 'http://marek.asia/docs/marek.jpg'
+image = 'http://marek.asia/img/music.jpg'
 
 # the podcast name
 title = 'podcast directory marekq'

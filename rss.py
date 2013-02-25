@@ -3,7 +3,7 @@
 # www.marek.asia
 # sudo apt-get install python-eyed3
 
-import eyeD3, sys, os, hashlib, time
+import eyeD3, sys, os, hashlib, time, shutil
 from SimpleXMLWriter import XMLWriter
 # import configuration file
 from cfg import *
@@ -47,6 +47,7 @@ for dirname, dirnames, filenames in os.walk(musicpath):
 	if 'mp3' in filename or 'm4a' in filename:
 		# define the path of the fime
 		path = os.path.join(dirname, filename)
+		print path
 		# get the dir structure from the webroot
 		webpath = path[rootchars:]
 		# create a new item for every file
@@ -66,7 +67,7 @@ for dirname, dirnames, filenames in os.walk(musicpath):
 		xml.element('duration', fileinfo.getPlayTimeString())
 		xml.element('keywords', tag.getComment())
                 xml.element('album', tag.getAlbum())
-		xml.element('bpm', tag.getBPM())
+		xml.element('bpm', str(tag.getBPM()))
                 xml.element('author', tag.getArtist())
 		xml.element('link', link)
 		
@@ -79,3 +80,4 @@ for dirname, dirnames, filenames in os.walk(musicpath):
 # close tags and write file
 #xml.end('channel')
 xml.close(output)
+shutil.copyfile('/var/www/music/rss/rss.xml','/var/www/rss.xml')
