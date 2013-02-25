@@ -80,4 +80,4 @@ for dirname, dirnames, filenames in os.walk(musicpath):
 # close tags and write file
 #xml.end('channel')
 xml.close(output)
-shutil.copyfile('/var/www/music/rss/rss.xml','/var/www/rss.xml')
+shutil.copyfile('rss.xml','/var/www/rss.xml')
