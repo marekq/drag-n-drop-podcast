@@ -2,16 +2,16 @@
 # define several variables for display in itunes
 
 # the url where your music is accessible
-url = 'http://marek.asia/music'
+url = 'https://marek.asia/music'
 
 # link to your website in the rss feed
-link = 'http://www.marek.asia'
+link = 'https://www.marek.asia'
 
 # a generic name that will be displayed
 name = 'podcast directory'
 
 # picture for the podcast
-image = 'http://marek.asia/img/music.jpg'
+image = 'https://marek.asia/img/music.jpg'
 
 # the podcast name
 title = 'podcast directory marekq'
@@ -23,7 +23,7 @@ description = 'private mixtape collection of marek kuczynski'
 author = 'marek'
 
 # your email
-email = 'marek@marek.asia'
+email = 'marek.kuczynski@gmail.com'
 
 # static content category
 category = 'music'

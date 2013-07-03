@@ -3,6 +3,7 @@
 # www.marek.asia
 # sudo apt-get install python-eyed3
 
+from time import sleep
 import eyeD3, sys, os, hashlib, time, shutil
 from SimpleXMLWriter import XMLWriter
 # import configuration file
@@ -43,6 +44,8 @@ rootchars = int(musicpath.count('')) - 1
 
 # crawl the current directory recursively
 for dirname, dirnames, filenames in os.walk(musicpath):
+    dirnames.sort()
+    filenames.sort()
     for filename in filenames:
 	if 'mp3' in filename or 'm4a' in filename:
 		# define the path of the fime
@@ -56,28 +59,34 @@ for dirname, dirnames, filenames in os.walk(musicpath):
 		tag.link(path)
 		fileinfo = eyeD3.Mp3AudioFile(path)
 
+		# merge artist + trackname
+		mtrack = filename.split('.')[0]
+		martist = webpath.split('/'[0])[0]
+		#print mtrack+' - '+martist
+
 		# retrieve several required fields
-		xml.element('title', filename.split('.')[0])
+		xml.element('title', martist+' - '+mtrack)
                 xml.element('enclosure', url=str(url + '/' + webpath), length=str(fileinfo.getSize()), type='audio/mpeg')
-		xml.element('pubDate', time.ctime(os.path.getctime(path)))
-		xml.element('category', webpath.split('/')[0])
-		xml.element('description', str(webpath.split('/')[0]))
+		#xml.element('pubDate', time.ctime(os.path.getctime(path)))
+		#xml.element('category', webpath.split('/')[0])
+		#xml.element('description', str(webpath.split('/')[0]))
 		
 		# the following attributes are optional, uncomment if needed
 		xml.element('duration', fileinfo.getPlayTimeString())
-		xml.element('keywords', tag.getComment())
-                xml.element('album', tag.getAlbum())
-		xml.element('bpm', str(tag.getBPM()))
-                xml.element('author', tag.getArtist())
+		#xml.element('keywords', tag.getComment())
+                #xml.element('album', tag.getAlbum())
+		#xml.element('bpm', str(tag.getBPM()))
+                #xml.element('author', tag.getArtist())
 		xml.element('link', link)
 		
 		# calculate the guid by making an md5 hash
 		guid = hashlib.md5()
 		guid.update(tag.getTitle() + tag.getArtist() + path)
 		xml.element('guid', guid.hexdigest())
+		sleep(0.2)
 		xml.end('item')
 
 # close tags and write file
 #xml.end('channel')
 xml.close(output)
-shutil.copyfile('rss.xml','/var/www/rss.xml')
+shutil.copyfile('/var/www/music/rss/rss.xml','/var/www/rss.xml')
