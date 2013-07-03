@@ -8,16 +8,16 @@ url = 'https://marek.asia/music'
 link = 'https://www.marek.asia'
 
 # a generic name that will be displayed
-name = 'podcast directory'
+name = 'marekq'
 
 # picture for the podcast
 image = 'https://marek.asia/img/music.jpg'
 
 # the podcast name
-title = 'podcast directory marekq'
+title = 'marekq'
 
 # description field
-description = 'private mixtape collection of marek kuczynski'
+description = 'podcasts i like'
 
 # your name
 author = 'marek'
